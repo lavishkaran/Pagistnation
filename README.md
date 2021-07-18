@@ -1,6 +1,6 @@
 # Pagistnation
 Situation:
-There shoul be a application where authentic study material, a platform where teachers can provide their study material to thousand of students and students can get all the study
+There should be a application where authentic study material, a platform where teachers can provide their study material to thousand of students and students can get all the study
 material easily, free of cost. Teachers will be paid and if students will upload their notrs, they will also paid for that.
 Challenges:
 Competition is betwwen may others and more likely with NPTEL. But they are providing notes for mostly IITs and NITs and not for other colleges. But this application will provide
