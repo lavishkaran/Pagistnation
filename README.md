@@ -9,5 +9,5 @@ In starting many teachers will disagree with us for sharing their notes might be
 anything else.
 Questions:
 How to collabrate with diffrent colleges?
-How to get more rech?
+How to get more reach?
 How to influence teachers to upload their notes on apllication.
